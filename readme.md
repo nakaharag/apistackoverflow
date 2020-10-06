@@ -1,6 +1,6 @@
-## API de consumo Stack OverFlow baseada em Java Spring Boot 2.3 + VueJS 3
+## API de consumo Stack Overflow baseada em Java Spring Boot 2.3 + VueJS 3
 
-A automatização da correção de erros é algo muito util para garantir a qualidade e estabilidade de aplicações. A estratégia de crowdsourcing ajuda muito nessa tarefa. O objetivo dessa aplicação é buscar possíveis soluções para um erro, cuja descrição/código o usuário irá digitar em um campo de busca.
+A automatização da correção de erros é algo muito útil para garantir a qualidade e estabilidade de aplicações. A estratégia de crowdsourcing ajuda muito nessa tarefa. O objetivo dessa aplicação é buscar possíveis soluções para um erro, cuja descrição/código o usuário irá digitar em um campo de busca.
 
   ### Funcionamento:
   
@@ -16,7 +16,7 @@ A automatização da correção de erros é algo muito util para garantir a qual
   
   - Permitar que os resultados das buscas sejam salvos e consultados posteriormente; 
 
-  O app Também deve:
+  O app também deve:
   
   - Ser uma aplicação WEB (Necessário usar um dos frameworks: Angular, Vue ou React;
   
